@@ -1,2 +1,2 @@
 # Bateman
-simple template of card from American Psycho Movie
+simple template of business card from American Psycho Movie
